@@ -1,0 +1,28 @@
+.answer li {
+    cursor: pointer;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.answer li:hover {
+    background-color: rgb(230, 223, 223);
+    box-shadow: 3px 3px 3px 3px rgb(194, 190, 190);
+}
+
+.question {
+    margin: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(78, 17, 17);
+}
+
+.quiz-counter {
+    color: rgb(78, 17, 17);
+}
+
+.result {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(59, 9, 9);
+    margin-top: 15px;
+}
